@@ -1,4 +1,4 @@
-# Laravel Vite Plugin
+# Laravel Vite Plugin (on steroids)
 
 <a href="https://github.com/laravel/vite-plugin/actions"><img src="https://github.com/laravel/vite-plugin/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://www.npmjs.com/package/laravel-vite-plugin"><img src="https://img.shields.io/npm/dt/laravel-vite-plugin" alt="Total Downloads"></a>
